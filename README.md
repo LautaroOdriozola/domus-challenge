@@ -20,4 +20,4 @@ Get directors who have directed more than a specified number of movies.
 ### Example:
 
 ```bash
-curl "http://localhost:8080/api/movies/directors?threshold=3"
+curl "http://localhost:8080/api/directors?threshold=4"
